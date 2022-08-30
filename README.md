@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Uzairahmad8
+- 👋 Hi, I’m Uzair Ahmad 
 - 👀 I’m interested in Googling About New Technology.
 - 📫 How to reach me uzairdev8@gmail.com
 
