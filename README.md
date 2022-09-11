@@ -5,7 +5,7 @@
 - 🤔   Exploring new technologies.
 - 🌱   Learning more about Programming Languages, Web Development.
 - 🥋   Gamer By Nature.
-- 🎧   Programmed To Win
+- 🎧   Programmed To Win.
 
 
 <!---
