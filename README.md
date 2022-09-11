@@ -4,8 +4,8 @@
 - 🎓   Studying Computer Science at FAST NUCES.
 - 🤔   Exploring new technologies.
 - 🌱   Learning more about Programming Languages, Web Development.
-- 🥋   Gamer by Nature.
-- 🎧   "NO FEAR EXCEPT ALLAH!"
+- 🥋   Gamer By Nature.
+- 🎧   Programmed To Win
 
 
 <!---
