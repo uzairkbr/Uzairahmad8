@@ -1,4 +1,6 @@
 
+ 💁‍♂️ I'm Uzair Ahmad.
+
 - 🎓   Studying Computer Science at FAST NUCES.
 - 🤔   Exploring new technologies.
 - 🌱   Learning more about Programming Languages, Web Development.
