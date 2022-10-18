@@ -3,7 +3,7 @@
 
 - 🎓   Studying Computer Science at FAST NUCES.
 - 🤔   Exploring new technologies.
-- 🌱   Learning more about Programming Languages, Web Development.
+- 🌱   Learning more about Programming & Web Development.
 - 🥋   Gamer By Nature.
 - 🎧   Programmed To Win.
 
